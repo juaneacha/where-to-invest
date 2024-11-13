@@ -1,7 +1,7 @@
 # Where To Invest?: Finding The State That Maximizes Real Estate Return On Investment
 
 ## Introduction
-As house prices continue to increase across states, knowing which states are the best to invest in has become a necessity. Real Estate investing  is best done in places where the house pricing is low but the economy is growing. This is because a growing economy is a proxy for business development. If different businesses are opening up in a particular area, house pricing is bound to soar because of an increase in demand of a steady supply of houses. This in turns appreciates the value of the investment. So, to evaluate the fitness of a state for real estate investing, the number of houses  and economy growth as shown by GDP are two factors to be examined.
+As house prices continue to increase across states, knowing which states are the best for maximizing return on investment (ROI) has become a necessity. Real Estate investing  is best done in places where the house pricing is low but the economy is growing. This is because a growing economy is a proxy for business development which is also a proxy for appriciation. So, to evaluate the fitness of a state for real estate investing, the number of houses  and economy growth as shown by GDP are two factors to be examined. Once the top 3 states are selected based on this criteria, return on investment comparison will be made using Zillow’s ROI calculator.
 
 **Concepts Applied**
 - Data preprocessing in R
@@ -50,3 +50,5 @@ The dataset used for this project was originally created and posted on Kaggle by
 ## Conclusion and Recommendations
 - Real estate investment opportunities can be found in different states but Florida, California, and Texas are three states with the most opportunities for investors
 - Currently Florida is the best state for real estate investing because of the size of the market and its ability to appreciate
+- Investing in Florida can yield a 10% increase in ROI compared to the closest competing state (California)
+
