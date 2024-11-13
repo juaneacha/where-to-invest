@@ -14,9 +14,10 @@ As house prices continue to increase across states, knowing which states are the
   - Calculating Fields
 
 - Problem Statement
-  - What’s currently the best state to invest in real estate?
-  - What states are currently growing economically?
+  - What’s currently the best state to maximize ROI in real estate?
+  - What states are currently growing economically based on GDP?
   - What states have the people with the highest personal income growth?
+
 
 ----
 ## Data Preprocessing 
