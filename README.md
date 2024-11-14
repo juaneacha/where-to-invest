@@ -42,7 +42,7 @@ The dataset used for this project was originally created and posted on Kaggle by
 ## Dashboard
 ![](realdash.png)
 <p align="center">
- <a href="[https://the-athlete-in-you-a80cad41e1f9.herokuapp.com/](https://public.tableau.com/views/MaximizingRealEstateROI/ReasonsToInvestInFloridasRealEstateMarket?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)" target="_blank">View In Tableau</a>
+ <a href="[https://public.tableau.com/views/MaximizingRealEstateROI/ReasonsToInvestInFloridasRealEstateMarket?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]" target="_blank">View In Tableau</a>
 </p>
 ----
 ## Results
