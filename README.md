@@ -48,14 +48,15 @@ The dataset used for this project was originally created and posted on Kaggle by
 
 ## Results
 ![](realcomp2.png)
+- Comparing states under average market parameters, Florida shows a 11.6% higher ROI compared to California and a 927.077% compared to Texas.
 - Florida is  the state that consistently comes ahead in housing supply and overall economic growth
 - Texas and California are two states that closely follow Florida’s trends
-- Florida has 9% and 19% more house listings than the closest competing states, California and Texas, respectively.  This shows that the number of investing opportunities is slightly better in Florida compared to other states
+- Florida has 9% and 19% more house listings than the closest competing states, California and Texas, respectively
 - Florida’s real estate housing has the potential to appreciate better than other states. This is because Florida’s GDP annual growth is 3% compared to 1.2% and 2.54% for California and Texas. This indicates business development that appreciates the real estate value
   
 ----
 ## Conclusion and Recommendations
 - Real estate investment opportunities can be found in different states but Florida, California, and Texas are three states with the most opportunities for investors
 - Currently, Florida is the best state for real estate investing because of the size of the market and its ability to appreciate
-- Investing in Florida can yield a 10% increase in ROI compared to the closest competing state (California)
+- Investing in Florida can yield a 11.6% increase in ROI compared to the closest competing state (California)
 
