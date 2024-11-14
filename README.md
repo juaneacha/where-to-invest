@@ -32,7 +32,7 @@ The dataset used for this project was originally created and posted on Kaggle by
 
 - Data Processing
   - Exploratory Analysis
-    - Number of property postings by state is mapped 
+    - The number of property postings by state is mapped 
     - Average house price by state is plotted
     - Real GDP annual growth by state is graphed
     - Personal income annual growth by state is graphed
