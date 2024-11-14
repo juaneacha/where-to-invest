@@ -46,6 +46,7 @@ The dataset used for this project was originally created and posted on Kaggle by
 </p>
 ----
 ## Results
+![](realcomp.png)
 - Florida is  the state that consistently comes ahead in housing supply and overall economic growth
 - Texas and California are two states that closely follow Florida’s trends
 - Florida has 9% and 19% more house listings than the closest competing states, California and Texas, respectively.  This shows that the number of investing opportunities is slightly better in Florida compared to other states
