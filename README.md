@@ -1,5 +1,5 @@
 # Where To Invest?: Finding The State That Maximizes Real Estate Return On Investment
-![](realIntro.png)
+![](realIntro.jpg)
 ## Introduction
 As house prices continue to increase across states, knowing which states are the best for maximizing return on investment (ROI) has become a necessity. Real Estate investing  is best done in places where the house pricing is low but the economy is growing. This is because a growing economy is a proxy for business development which is also a proxy for appreciation. So, to evaluate the fitness of a state for real estate investing, the number of houses  and economic growth as shown by GDP are two factors to be examined. Once the top 3 states are selected based on this criteria, return on investment comparison will be made using Zillow’s ROI calculator.
 
